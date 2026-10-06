@@ -64,6 +64,11 @@
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Every Mermaid Diagram, Rendered Live](https://sudoscratchy.github.io/posts/mermaid-capability-check/)
+- [Deployed from a Workflow: This Post Is the Test](https://sudoscratchy.github.io/posts/deployed-from-a-workflow/)
+- [A Persian Palette for an Engineer&#39;s Blog](https://sudoscratchy.github.io/posts/persian-palette-engineers-blog/)
+- [Hello, StaticBlaze](https://sudoscratchy.github.io/posts/hello-staticblaze/)
+- [Markdown Feature Tour &lpar;Legacy Demo&rpar;](https://sudoscratchy.github.io/posts/markdown-feature-tour/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
