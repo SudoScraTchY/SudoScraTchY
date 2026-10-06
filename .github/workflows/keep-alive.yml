@@ -1,0 +1,20 @@
+name: Keep alive
+
+# GitHub disables scheduled workflows in repos with no activity for 60 days.
+# This keeps the profile repo active so the snake & blog workflows keep running.
+
+on:
+  schedule:
+    - cron: "3 5 * * 1"   # weekly, Mondays 05:03 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/keepalive-workflow@v2
