@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:1e293b,100:475569&text=Mehrshad%20Zand&fontSize=38&fontColor=e2e8f0&desc=backend%20%C2%B7%20.NET%20%C2%B7%20systems&descSize=16&descAlignY=68&descColor=cbd5e1" width="100%" />
 
-<h3 align="left">Hi, I'm Mehrshad — also known as <a href="https://github.com/SudoScraTchY">SudoScraTchY</a></h3>
+<h3 align="left">Hi, I'm Mehrshad — also known as <a href="https://github.com/SudoScraTchY">SaintScraTchY</a></h3>
 
 - Backend engineer, ~5 years in **C# / .NET** — APIs, services and developer tooling with a bias toward **Clean Architecture, security, and systems that hold up at scale**.
 - I like taking things apart before I trust them: what's under the abstraction, what it costs, where it breaks. Given the choice, I pick **transparent and composable over convenient and locked-in**.
