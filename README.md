@@ -4,8 +4,6 @@
 
 - Backend engineer, ~5 years in **C# / .NET** — APIs, services and developer tooling with a bias toward **Clean Architecture, security, and systems that hold up at scale**.
 - I like taking things apart before I trust them: what's under the abstraction, what it costs, where it breaks. Given the choice, I pick **transparent and composable over convenient and locked-in**.
-- More builder than performer — quietly getting good at something beats talking about it.
-- A small question routinely turns into a six-hour rabbit hole. I've stopped pretending that's a bug.
 
 📌 **Now:** building [coppice](https://github.com/SudoScraTchY/coppice) · writing at [sudoscratchy.github.io](https://sudoscratchy.github.io) · open to interesting backend work
 
