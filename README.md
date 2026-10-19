@@ -1,60 +1,55 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:1e293b,100:475569&text=Mehrshad%20Zand&fontSize=38&fontColor=e2e8f0&desc=backend%20%C2%B7%20.NET%20%C2%B7%20systems&descSize=16&descAlignY=68&descColor=cbd5e1" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SudoScraTchY/SudoScraTchY/main/assets/hero-dark.svg">
+  <img src="https://raw.githubusercontent.com/SudoScraTchY/SudoScraTchY/main/assets/hero-light.svg" width="100%" alt="Banner: Mehrshad Zand — backend engineer working in C# and .NET, drawn as an engineering sheet with a Persian tile motif" />
+</picture>
 
-<h3 align="left">Hi, I'm Mehrshad — also known as <a href="https://github.com/SudoScraTchY">SaintScraTchY</a></h3>
+### Backend engineer · hobbyist at heart
 
-- Backend engineer, ~5 years in **C# / .NET** — APIs, services and developer tooling with a bias toward **Clean Architecture, security, and systems that hold up at scale**.
+- ~5 years in **C# / .NET** — APIs, services and developer tooling with a bias toward **Clean Architecture, security, and systems that hold up at scale**.
 - I like taking things apart before I trust them: what's under the abstraction, what it costs, where it breaks. Given the choice, I pick **transparent and composable over convenient and locked-in**.
-
-📌 **Now:** building [coppice](https://github.com/SudoScraTchY/coppice) · writing at [sudoscratchy.github.io](https://sudoscratchy.github.io) · open to interesting backend work
+- **Now:** building [coppice](https://github.com/SudoScraTchY/coppice) · writing at [sudoscratchy.github.io](https://sudoscratchy.github.io) · open to interesting backend work
+- **Learning:** <!-- TODO: what are you learning right now? The old README never said — e.g. "Rust", "K8s internals", "compiler design" -->
 
 ---
 
 ## Things I build with
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+| Languages | Backend &amp; data | Tools &amp; platform |
+| --- | --- | --- |
+| ![C#](https://img.shields.io/badge/C%23-1B2A44?style=flat-square&logo=csharp&logoColor=2FC1B0) ![TypeScript](https://img.shields.io/badge/TypeScript-1B2A44?style=flat-square&logo=typescript&logoColor=2FC1B0) ![JavaScript](https://img.shields.io/badge/JavaScript-1B2A44?style=flat-square&logo=javascript&logoColor=2FC1B0) ![Python](https://img.shields.io/badge/Python-1B2A44?style=flat-square&logo=python&logoColor=2FC1B0) | ![.NET](https://img.shields.io/badge/.NET-1B2A44?style=flat-square&logo=dotnet&logoColor=2FC1B0) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-1B2A44?style=flat-square&logo=dotnet&logoColor=2FC1B0) ![Blazor](https://img.shields.io/badge/Blazor-1B2A44?style=flat-square&logo=blazor&logoColor=2FC1B0) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1B2A44?style=flat-square&logo=postgresql&logoColor=2FC1B0) ![Redis](https://img.shields.io/badge/Redis-1B2A44?style=flat-square&logo=redis&logoColor=2FC1B0) | ![Docker](https://img.shields.io/badge/Docker-1B2A44?style=flat-square&logo=docker&logoColor=2FC1B0) ![Linux](https://img.shields.io/badge/Linux-1B2A44?style=flat-square&logo=linux&logoColor=2FC1B0) ![Git](https://img.shields.io/badge/Git-1B2A44?style=flat-square&logo=git&logoColor=2FC1B0) ![PowerShell](https://img.shields.io/badge/PowerShell-1B2A44?style=flat-square&logo=powershell&logoColor=2FC1B0) |
+
+<!-- One badge family: flat-square, ink background, turquoise logo — matches the banner palette. -->
 
 ---
 
 ## Featured projects
 
 | | |
-|---|---|
-| [**coppice**](https://github.com/SudoScraTchY/coppice) | Cross-platform, plugin-based toolchain & cache cleaner for polyglot developers — dry-run by default, and every proposed deletion carries a reason. |
-| [**Veder**](https://github.com/SudoScraTchY/Veder) | Weather & air-quality service where the domain is the product: one HTTP call per place, and the response names the provider that answered. Live at [veder.ir](https://veder.ir). |
-| [**StaticBlaze**](https://github.com/SudoScraTchY/StaticBlaze) | A Jekyll alternative in .NET — markdown repo in, static site out, Blazor WASM admin as the only client-side code. Powers my blog. |
-| [**PicoNet**](https://github.com/SudoScraTchY/PicoNet) | Event-driven .NET services with Postgres, Redis, Wolverine and vector search — documented end to end, from architecture to local setup. |
-| [**Auth.Playground**](https://github.com/SudoScraTchY/Auth.Playground) | Authentication in .NET built from scratch: encrypted cookie → middleware & claims → full Identity → custom OAuth server. |
-| [**QuickDns**](https://github.com/SudoScraTchY/QuickDns) | Tiny Windows console utility for switching DNS settings fast — keyboard-driven, configurable, ships as a portable single-file exe. |
+| --- | --- |
+| **[coppice](https://github.com/SudoScraTchY/coppice)** | Cross-platform, plugin-based toolchain &amp; cache cleaner for polyglot developers — dry-run by default, and every proposed deletion carries a reason. |
+| **[Veder](https://github.com/SudoScraTchY/Veder)** | Weather &amp; air-quality service where the domain is the product: one HTTP call per place, and the response names the provider that answered. Live at [veder.ir](https://veder.ir). |
+| **[BozKhar](https://github.com/SudoScraTchY/BozKhar)** | Browser extension for Digikala that finds the cheapest way to buy your cart (boz-khar = bargain hunter). |
+| **[StaticBlaze](https://github.com/SudoScraTchY/StaticBlaze)** | A Jekyll alternative in .NET — markdown repo in, static site out, Blazor WASM admin as the only client-side code. Powers my blog. |
+| **[PicoNet](https://github.com/SudoScraTchY/PicoNet)** | Event-driven .NET services with Postgres, Redis, Wolverine and vector search — documented end to end, from architecture to local setup. |
+| **[Auth.Playground](https://github.com/SudoScraTchY/Auth.Playground)** | Authentication in .NET built from scratch: encrypted cookie → middleware &amp; claims → full Identity → custom OAuth server. |
+
+Also around here: [QuickDns](https://github.com/SudoScraTchY/QuickDns) — keyboard-driven Windows DNS switcher that ships as a portable single-file exe · [Alak](https://github.com/SudoScraTchY/Alak) — WIP, description coming soon <!-- TODO: one-liner for Alak -->
 
 ---
 
-## GitHub stats
+## Live stats
+
+<!-- assets/stats-*.svg are rendered by my own workflow (.github/workflows/stats.yml) from the GitHub API and committed to this repo — no third-party stat cards. First run fills them in; if you see a broken image, it hasn't run yet. -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SudoScraTchY&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SudoScraTchY&show_icons=true&hide_border=true&include_all_commits=true&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=SudoScraTchY&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SudoScraTchY/SudoScraTchY/main/assets/stats-dark.svg">
+  <img src="https://raw.githubusercontent.com/SudoScraTchY/SudoScraTchY/main/assets/stats-light.svg" width="100%" alt="Card of GitHub activity tiles: commits, longest streak, pull requests, issues, reviews and stars earned over the last 12 months, plus a language distribution bar" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SudoScraTchY&hide_border=true&theme=github-dark-blue">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=SudoScraTchY&hide_border=true">
-  <img src="https://streak-stats.demolab.com?user=SudoScraTchY&hide_border=true" alt="Contribution streak" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SudoScraTchY&layout=compact&hide_border=true&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SudoScraTchY&layout=compact&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudoScraTchY&layout=compact&hide_border=true" alt="Top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SudoScraTchY/SudoScraTchY/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SudoScraTchY/SudoScraTchY/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/SudoScraTchY/SudoScraTchY/output/github-contribution-grid-snake.svg" width="100%" alt="Animated snake gliding over my contribution grid" />
 </picture>
 
 ---
@@ -71,16 +66,13 @@
 
 ---
 
-## Contribution graph
+## Find me
+
+[blog](https://sudoscratchy.github.io) · [veder.ir](https://veder.ir) <!-- TODO: LinkedIn / email / other handles you want public — the profile currently lists none -->
+
+<img align="left" src="https://komarev.com/ghpvc/?username=SudoScraTchY&style=flat-square&color=1B2A44&abbreviated=true" alt="Profile views" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SudoScraTchY/SudoScraTchY/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SudoScraTchY/SudoScraTchY/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/SudoScraTchY/SudoScraTchY/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SudoScraTchY/SudoScraTchY/main/assets/footer-dark.svg">
+  <img src="https://raw.githubusercontent.com/SudoScraTchY/SudoScraTchY/main/assets/footer-light.svg" width="100%" alt="Decorative divider strip of alternating Persian tile outlines" />
 </picture>
-
----
-
-<img align="left" src="https://komarev.com/ghpvc/?username=SudoScraTchY&style=flat-square&color=64748b&abbreviated=true" alt="Profile views" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:475569,100:1e293b" width="100%" />
