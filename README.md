@@ -1,14 +1,30 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SudoScraTchY/SudoScraTchY/main/assets/hero-dark.svg">
-  <img src="https://raw.githubusercontent.com/SudoScraTchY/SudoScraTchY/main/assets/hero-light.svg" width="100%" alt="Banner: Mehrshad Zand — backend engineer working in C# and .NET, drawn as an engineering sheet with a Persian tile motif" />
+  <img src="https://raw.githubusercontent.com/SudoScraTchY/SudoScraTchY/main/assets/hero-light.svg" width="100%" alt="Banner styled as a terminal session: GET /mehrshad returns 200 OK, x-powered-by coffee. Name Mehrshad Zand, tagline: backend engineer, deletes caches, defends RFC 2324. A line-art teapot with animated steam sits in a Persian tile frame." />
 </picture>
 
-### Backend engineer · hobbyist at heart
+### Backend engineer · hobbyist at heart · defends 418
 
 - ~5 years in **C# / .NET** — APIs, services and developer tooling with a bias toward **Clean Architecture, security, and systems that hold up at scale**.
-- I like taking things apart before I trust them: what's under the abstraction, what it costs, where it breaks. Given the choice, I pick **transparent and composable over convenient and locked-in**.
+- I like taking things apart before I trust them: what's under the abstraction, what it costs, where it breaks. **Transparent and composable over convenient and locked-in.**
 - **Now:** building [coppice](https://github.com/SudoScraTchY/coppice) · writing at [sudoscratchy.github.io](https://sudoscratchy.github.io) · open to interesting backend work
+- **Believes:** humans are a feature of the machine, not a bug — which is why [RFC 2324](https://www.rfc-editor.org/rfc/rfc2324) stays.
 - **Learning:** <!-- TODO: what are you learning right now? The old README never said — e.g. "Rust", "K8s internals", "compiler design" -->
+
+---
+
+## My life as status codes
+
+Every one of these actually happened.
+
+| | |
+| --- | --- |
+| `301 Moved Permanently` | Previously [@SaintScraTchY](https://github.com/SaintScraTchY). The account got banned; the human did not. Same person, better handle. |
+| `200 OK` | Five years of shipping .NET services that hold up at scale. Mostly. On the second deploy. |
+| `410 Gone` | What [coppice](https://github.com/SudoScraTchY/coppice) does to your caches — dry-run by default, and every deletion carries a reason. |
+| `402 Payment Required` | [BozKhar](https://github.com/SudoScraTchY/BozKhar) finds the cheapest way to buy your Digikala cart. Bargain hunting as a browser extension. |
+| `304 Not Modified` | [StaticBlaze](https://github.com/SudoScraTchY/StaticBlaze): markdown in, static site out. Nothing moves until I say so. |
+| `418 I'm a teapot` | Non-negotiable. The shortest RFC is load-bearing culture. |
 
 ---
 
@@ -39,7 +55,7 @@ Also around here: [QuickDns](https://github.com/SudoScraTchY/QuickDns) — keybo
 
 ## Live stats
 
-<!-- assets/stats-*.svg are rendered by my own workflow (.github/workflows/stats.yml) from the GitHub API and committed to this repo — no third-party stat cards. First run fills them in; if you see a broken image, it hasn't run yet. -->
+<!-- assets/stats-*.svg are rendered by my own workflow (.github/workflows/stats.yml) from the GitHub API and committed to this repo — no third-party stat cards. -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SudoScraTchY/SudoScraTchY/main/assets/stats-dark.svg">
@@ -68,11 +84,11 @@ Also around here: [QuickDns](https://github.com/SudoScraTchY/QuickDns) — keybo
 
 ## Find me
 
-[blog](https://sudoscratchy.github.io) · [veder.ir](https://veder.ir) <!-- TODO: LinkedIn / email / other handles you want public — the profile currently lists none -->
+[blog](https://sudoscratchy.github.io) · [veder.ir](https://veder.ir) · brewing [coppice](https://github.com/SudoScraTchY/coppice) <!-- TODO: LinkedIn / email / other handles you want public — the profile currently lists none -->
 
 <img align="left" src="https://komarev.com/ghpvc/?username=SudoScraTchY&style=flat-square&color=1B2A44&abbreviated=true" alt="Profile views" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SudoScraTchY/SudoScraTchY/main/assets/footer-dark.svg">
-  <img src="https://raw.githubusercontent.com/SudoScraTchY/SudoScraTchY/main/assets/footer-light.svg" width="100%" alt="Decorative divider strip of alternating Persian tile outlines" />
+  <img src="https://raw.githubusercontent.com/SudoScraTchY/SudoScraTchY/main/assets/footer-light.svg" width="100%" alt="Decorative divider strip of alternating Persian tile outlines with a small teapot in the middle" />
 </picture>
