@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 72" width="1200" height="72" role="img" aria-labelledby="ft fd">
+  <title id="ft">Tile divider</title>
+  <desc id="fd">A thin decorative strip of alternating Persian eight-point tile outlines in turquoise and saffron.</desc>
+  <rect width="1200" height="72" fill="#FAF6EF"/>
+  <rect x="1" y="1" width="1198" height="70" fill="none" stroke="#16233F" stroke-opacity="0.15"/>
+  <g fill="none" stroke-width="1.4">
+    <g transform="translate(46,36)"><rect x="-17" y="-17" width="34" height="34" stroke="#1FA396" stroke-opacity="0.30"/><rect x="-17" y="-17" width="34" height="34" transform="rotate(45)" stroke="#1FA396" stroke-opacity="0.30"/></g>
+    <g transform="translate(139,36)"><rect x="-17" y="-17" width="34" height="34" stroke="#D98E2B" stroke-opacity="0.22"/><rect x="-17" y="-17" width="34" height="34" transform="rotate(45)" stroke="#D98E2B" stroke-opacity="0.22"/></g>
+    <g transform="translate(232,36)"><rect x="-17" y="-17" width="34" height="34" stroke="#1FA396" stroke-opacity="0.30"/><rect x="-17" y="-17" width="34" height="34" transform="rotate(45)" stroke="#1FA396" stroke-opacity="0.30"/></g>
+    <g transform="translate(325,36)"><rect x="-17" y="-17" width="34" height="34" stroke="#D98E2B" stroke-opacity="0.22"/><rect x="-17" y="-17" width="34" height="34" transform="rotate(45)" stroke="#D98E2B" stroke-opacity="0.22"/></g>
+    <g transform="translate(418,36)"><rect x="-17" y="-17" width="34" height="34" stroke="#1FA396" stroke-opacity="0.30"/><rect x="-17" y="-17" width="34" height="34" transform="rotate(45)" stroke="#1FA396" stroke-opacity="0.30"/></g>
+    <g transform="translate(511,36)"><rect x="-17" y="-17" width="34" height="34" stroke="#D98E2B" stroke-opacity="0.22"/><rect x="-17" y="-17" width="34" height="34" transform="rotate(45)" stroke="#D98E2B" stroke-opacity="0.22"/></g>
+    <g transform="translate(604,36)"><rect x="-17" y="-17" width="34" height="34" stroke="#1FA396" stroke-opacity="0.30"/><rect x="-17" y="-17" width="34" height="34" transform="rotate(45)" stroke="#1FA396" stroke-opacity="0.30"/></g>
+    <g transform="translate(697,36)"><rect x="-17" y="-17" width="34" height="34" stroke="#D98E2B" stroke-opacity="0.22"/><rect x="-17" y="-17" width="34" height="34" transform="rotate(45)" stroke="#D98E2B" stroke-opacity="0.22"/></g>
+    <g transform="translate(790,36)"><rect x="-17" y="-17" width="34" height="34" stroke="#1FA396" stroke-opacity="0.30"/><rect x="-17" y="-17" width="34" height="34" transform="rotate(45)" stroke="#1FA396" stroke-opacity="0.30"/></g>
+    <g transform="translate(883,36)"><rect x="-17" y="-17" width="34" height="34" stroke="#D98E2B" stroke-opacity="0.22"/><rect x="-17" y="-17" width="34" height="34" transform="rotate(45)" stroke="#D98E2B" stroke-opacity="0.22"/></g>
+    <g transform="translate(976,36)"><rect x="-17" y="-17" width="34" height="34" stroke="#1FA396" stroke-opacity="0.30"/><rect x="-17" y="-17" width="34" height="34" transform="rotate(45)" stroke="#1FA396" stroke-opacity="0.30"/></g>
+    <g transform="translate(1069,36)"><rect x="-17" y="-17" width="34" height="34" stroke="#D98E2B" stroke-opacity="0.22"/><rect x="-17" y="-17" width="34" height="34" transform="rotate(45)" stroke="#D98E2B" stroke-opacity="0.22"/></g>
+    <g transform="translate(1162,36)"><rect x="-17" y="-17" width="34" height="34" stroke="#1FA396" stroke-opacity="0.30"/><rect x="-17" y="-17" width="34" height="34" transform="rotate(45)" stroke="#1FA396" stroke-opacity="0.30"/></g>
+  </g>
+</svg>

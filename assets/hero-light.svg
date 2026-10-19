@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-labelledby="ht hd">
+  <title id="ht">Mehrshad Zand — backend engineer</title>
+  <desc id="hd">Blueprint-style banner with the name Mehrshad Zand, a terminal prompt, a tagline about C# and .NET backend work, three skill chips, and a faint Persian eight-point tile motif on the right.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#16233F" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <style>@media (prefers-reduced-motion: reduce){ .anim{ display:none } }</style>
+  <rect width="1200" height="300" fill="#FAF6EF"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+  <g transform="translate(1005,150)" fill="none" stroke-width="1.5">
+    <rect x="-88" y="-88" width="176" height="176" stroke="#1FA396" stroke-opacity="0.20"/>
+    <rect x="-88" y="-88" width="176" height="176" transform="rotate(45)" stroke="#D98E2B" stroke-opacity="0.13"/>
+    <circle r="150" stroke="#16233F" stroke-opacity="0.10"/>
+    <circle r="176" stroke="#16233F" stroke-opacity="0.07"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="298" fill="none" stroke="#16233F" stroke-opacity="0.18"/>
+  <text x="72" y="66" font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="13" fill="#5C6678" textLength="150" lengthAdjust="spacingAndGlyphs">~/mehrshad $ whoami</text>
+  <rect class="anim" x="232" y="52" width="9" height="16" fill="#1FA396">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+  <text x="70" y="152" font-family="'Avenir Next','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="66" font-weight="800" letter-spacing="-1.5" fill="#16233F">Mehrshad Zand</text>
+  <line class="anim" x1="72" y1="180" x2="520" y2="180" stroke="#1FA396" stroke-width="3" stroke-dasharray="448" stroke-dashoffset="448">
+    <animate attributeName="stroke-dashoffset" from="448" to="0" dur="0.9s" begin="0.15s" fill="freeze"/>
+  </line>
+  <rect x="530" y="174" width="12" height="12" fill="#D98E2B"/>
+  <text x="72" y="216" font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="16" fill="#5C6678">backend engineer · C# &amp; .NET · APIs, services &amp; developer tooling</text>
+  <g font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="12">
+    <rect x="72" y="240" width="96" height="26" rx="4" fill="none" stroke="#16233F" stroke-opacity="0.28"/>
+    <text x="120" y="257" text-anchor="middle" fill="#16233F">C# / .NET</text>
+    <rect x="182" y="240" width="140" height="26" rx="4" fill="none" stroke="#16233F" stroke-opacity="0.28"/>
+    <text x="252" y="257" text-anchor="middle" fill="#16233F">backend systems</text>
+    <rect x="336" y="240" width="140" height="26" rx="4" fill="none" stroke="#16233F" stroke-opacity="0.28"/>
+    <text x="406" y="257" text-anchor="middle" fill="#16233F">developer tools</text>
+  </g>
+  <text x="1128" y="272" text-anchor="end" font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="11" fill="#16233F" fill-opacity="0.45">profile — rev 2026.10</text>
+</svg>
