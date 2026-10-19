@@ -1,0 +1,42 @@
+name: Generate stats assets
+
+# Self-hosted stats: renders assets/stats-*.svg from the GitHub GraphQL API
+# instead of third-party hosted cards, then commits them to this repo.
+
+on:
+  schedule:
+    - cron: "31 2 * * *"   # daily, 02:31 UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "README.md"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Render stats SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_stats.py --user "${{ github.repository_owner }}" --out-dir assets
+
+      - name: Commit and push
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "assets"
+          message: "ci: refresh stats assets [skip ci]"
+          author_name: "SudoScraTchY"
+          author_email: "297002890+SudoScraTchY@users.noreply.github.com"
+          push: true
