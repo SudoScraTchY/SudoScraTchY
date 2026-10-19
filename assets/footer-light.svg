@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 72" width="1200" height="72" role="img" aria-labelledby="ft fd">
   <title id="ft">Tile divider</title>
-  <desc id="fd">A thin decorative strip of alternating Persian eight-point tile outlines in turquoise and saffron.</desc>
+  <desc id="fd">A thin decorative strip of alternating Persian eight-point tile outlines in turquoise and saffron, with a small line-art teapot in the middle.</desc>
   <rect width="1200" height="72" fill="#FAF6EF"/>
   <rect x="1" y="1" width="1198" height="70" fill="none" stroke="#16233F" stroke-opacity="0.15"/>
   <g fill="none" stroke-width="1.4">
@@ -11,7 +11,14 @@
     <g transform="translate(325,36)"><rect x="-17" y="-17" width="34" height="34" stroke="#D98E2B" stroke-opacity="0.22"/><rect x="-17" y="-17" width="34" height="34" transform="rotate(45)" stroke="#D98E2B" stroke-opacity="0.22"/></g>
     <g transform="translate(418,36)"><rect x="-17" y="-17" width="34" height="34" stroke="#1FA396" stroke-opacity="0.30"/><rect x="-17" y="-17" width="34" height="34" transform="rotate(45)" stroke="#1FA396" stroke-opacity="0.30"/></g>
     <g transform="translate(511,36)"><rect x="-17" y="-17" width="34" height="34" stroke="#D98E2B" stroke-opacity="0.22"/><rect x="-17" y="-17" width="34" height="34" transform="rotate(45)" stroke="#D98E2B" stroke-opacity="0.22"/></g>
-    <g transform="translate(604,36)"><rect x="-17" y="-17" width="34" height="34" stroke="#1FA396" stroke-opacity="0.30"/><rect x="-17" y="-17" width="34" height="34" transform="rotate(45)" stroke="#1FA396" stroke-opacity="0.30"/></g>
+    <g transform="translate(604,36)" fill="none" stroke="#1FA396" stroke-opacity="0.55" stroke-width="1.4" stroke-linecap="round">
+      <path d="M -12 -3 C -13 7 -7 12 0 12 C 7 12 13 7 12 -3"/>
+      <path d="M -13 -3 Q 0 -8 13 -3"/>
+      <path d="M 12 0 C 17 -1 18 -5 19 -8"/>
+      <path d="M -12 0 C -19 -1 -20 7 -13 8"/>
+      <circle cx="0" cy="-8" r="1.6" fill="#D98E2B" stroke="none"/>
+      <path d="M -3 -13 C -5 -16 -1 -18 -3 -21" stroke-opacity="0.4"/>
+    </g>
     <g transform="translate(697,36)"><rect x="-17" y="-17" width="34" height="34" stroke="#D98E2B" stroke-opacity="0.22"/><rect x="-17" y="-17" width="34" height="34" transform="rotate(45)" stroke="#D98E2B" stroke-opacity="0.22"/></g>
     <g transform="translate(790,36)"><rect x="-17" y="-17" width="34" height="34" stroke="#1FA396" stroke-opacity="0.30"/><rect x="-17" y="-17" width="34" height="34" transform="rotate(45)" stroke="#1FA396" stroke-opacity="0.30"/></g>
     <g transform="translate(883,36)"><rect x="-17" y="-17" width="34" height="34" stroke="#D98E2B" stroke-opacity="0.22"/><rect x="-17" y="-17" width="34" height="34" transform="rotate(45)" stroke="#D98E2B" stroke-opacity="0.22"/></g>
