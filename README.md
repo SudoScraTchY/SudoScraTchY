@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SudoScraTchY/SudoScraTchY/main/assets/hero-dark.svg">
-  <img src="https://raw.githubusercontent.com/SudoScraTchY/SudoScraTchY/main/assets/hero-light.svg" width="100%" alt="Banner styled as a terminal session: GET /mehrshad returns 200 OK, x-powered-by coffee. Name Mehrshad Zand, tagline: backend engineer, deletes caches, defends RFC 2324. A line-art teapot with animated steam sits in a Persian tile frame." />
+  <img src="https://raw.githubusercontent.com/SudoScraTchY/SudoScraTchY/main/assets/hero-light.svg" width="100%" alt="Banner styled as a terminal session: GET /mehrshad returns 200 OK, x-powered-by coffee. Name Mehrshad Zand, tagline: backend engineer, deletes caches, defends RFC 2324. A line-art teapot with animated steam stands on a saucer against a soft turquoise disc." />
 </picture>
 
 ### Backend engineer · hobbyist at heart · defends 418
@@ -24,6 +24,7 @@ Every one of these actually happened.
 | `410 Gone` | What [coppice](https://github.com/SudoScraTchY/coppice) does to your caches — dry-run by default, and every deletion carries a reason. |
 | `402 Payment Required` | [BozKhar](https://github.com/SudoScraTchY/BozKhar) finds the cheapest way to buy your Digikala cart. Bargain hunting as a browser extension. |
 | `304 Not Modified` | [StaticBlaze](https://github.com/SudoScraTchY/StaticBlaze): markdown in, static site out. Nothing moves until I say so. |
+| `429 Too Many Requests` | Your notification shade, before [Alak](https://github.com/SudoScraTchY/Alak). It sifts, ranks and files on-device — no account, no network. |
 | `418 I'm a teapot` | Non-negotiable. The shortest RFC is load-bearing culture. |
 
 ---
@@ -46,10 +47,10 @@ Every one of these actually happened.
 | **[Veder](https://github.com/SudoScraTchY/Veder)** | Weather &amp; air-quality service where the domain is the product: one HTTP call per place, and the response names the provider that answered. Live at [veder.ir](https://veder.ir). |
 | **[BozKhar](https://github.com/SudoScraTchY/BozKhar)** | Browser extension for Digikala that finds the cheapest way to buy your cart (boz-khar = bargain hunter). |
 | **[StaticBlaze](https://github.com/SudoScraTchY/StaticBlaze)** | A Jekyll alternative in .NET — markdown repo in, static site out, Blazor WASM admin as the only client-side code. Powers my blog. |
-| **[PicoNet](https://github.com/SudoScraTchY/PicoNet)** | Event-driven .NET services with Postgres, Redis, Wolverine and vector search — documented end to end, from architecture to local setup. |
-| **[Auth.Playground](https://github.com/SudoScraTchY/Auth.Playground)** | Authentication in .NET built from scratch: encrypted cookie → middleware &amp; claims → full Identity → custom OAuth server. |
+| **Scribir** | New project, details soon. <!-- TODO: one-liner + repo link for Scribir --> |
+| **[Alak](https://github.com/SudoScraTchY/Alak)** | Offline Android notification sieve (*ālak* = Persian for sieve): a Persian-aware, explainable rule engine sorts your shade into spaces and pulls out promo codes, amounts and expiry dates — on-device only. |
 
-Also around here: [QuickDns](https://github.com/SudoScraTchY/QuickDns) — keyboard-driven Windows DNS switcher that ships as a portable single-file exe · [Alak](https://github.com/SudoScraTchY/Alak) — WIP, description coming soon <!-- TODO: one-liner for Alak -->
+Also around here: [PicoNet](https://github.com/SudoScraTchY/PicoNet) — event-driven .NET services with Postgres, Redis, Wolverine and vector search · [QuickDns](https://github.com/SudoScraTchY/QuickDns) — keyboard-driven Windows DNS switcher that ships as a portable single-file exe
 
 ---
 
@@ -90,5 +91,5 @@ Also around here: [QuickDns](https://github.com/SudoScraTchY/QuickDns) — keybo
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SudoScraTchY/SudoScraTchY/main/assets/footer-dark.svg">
-  <img src="https://raw.githubusercontent.com/SudoScraTchY/SudoScraTchY/main/assets/footer-light.svg" width="100%" alt="Decorative divider strip of alternating Persian tile outlines with a small teapot in the middle" />
+  <img src="https://raw.githubusercontent.com/SudoScraTchY/SudoScraTchY/main/assets/footer-light.svg" width="100%" alt="Decorative divider strip: a scrolling vine with a small teapot in the middle" />
 </picture>
