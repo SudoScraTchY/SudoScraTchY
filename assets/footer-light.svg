@@ -1,29 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 72" width="1200" height="72" role="img" aria-labelledby="ft fd">
-  <title id="ft">Tile divider</title>
-  <desc id="fd">A thin decorative strip of alternating Persian eight-point tile outlines in turquoise and saffron, with a small line-art teapot in the middle.</desc>
+  <title id="ft">Vine divider with a small teapot</title>
+  <desc id="fd">A thin decorative strip: a scrolling vine with turquoise and saffron leaves, and a small line-drawn teapot in the middle.</desc>
+  <defs>
+    <pattern id="vine" width="96" height="72" patternUnits="userSpaceOnUse">
+      <path d="M 0 40 C 12 16 36 16 48 40 C 60 64 84 64 96 40" fill="none" stroke="#1FA396" stroke-opacity="0.22" stroke-width="1.3" stroke-linecap="round"/>
+      <path d="M 26 22 q 7 -8 14 -5 q -3 8 -14 5 Z" fill="#1FA396" fill-opacity="0.12"/>
+      <path d="M 74 58 q 7 8 14 5 q -3 -8 -14 -5 Z" fill="#D98E2B" fill-opacity="0.10"/>
+    </pattern>
+  </defs>
   <rect width="1200" height="72" fill="#FAF6EF"/>
+  <rect width="1200" height="72" fill="url(#vine)"/>
   <rect x="1" y="1" width="1198" height="70" fill="none" stroke="#16233F" stroke-opacity="0.15"/>
-  <g fill="none" stroke-width="1.4">
-    <g transform="translate(46,36)"><rect x="-17" y="-17" width="34" height="34" stroke="#1FA396" stroke-opacity="0.30"/><rect x="-17" y="-17" width="34" height="34" transform="rotate(45)" stroke="#1FA396" stroke-opacity="0.30"/></g>
-    <g transform="translate(139,36)"><rect x="-17" y="-17" width="34" height="34" stroke="#D98E2B" stroke-opacity="0.22"/><rect x="-17" y="-17" width="34" height="34" transform="rotate(45)" stroke="#D98E2B" stroke-opacity="0.22"/></g>
-    <g transform="translate(232,36)"><rect x="-17" y="-17" width="34" height="34" stroke="#1FA396" stroke-opacity="0.30"/><rect x="-17" y="-17" width="34" height="34" transform="rotate(45)" stroke="#1FA396" stroke-opacity="0.30"/></g>
-    <g transform="translate(325,36)"><rect x="-17" y="-17" width="34" height="34" stroke="#D98E2B" stroke-opacity="0.22"/><rect x="-17" y="-17" width="34" height="34" transform="rotate(45)" stroke="#D98E2B" stroke-opacity="0.22"/></g>
-    <g transform="translate(418,36)"><rect x="-17" y="-17" width="34" height="34" stroke="#1FA396" stroke-opacity="0.30"/><rect x="-17" y="-17" width="34" height="34" transform="rotate(45)" stroke="#1FA396" stroke-opacity="0.30"/></g>
-    <g transform="translate(511,36)"><rect x="-17" y="-17" width="34" height="34" stroke="#D98E2B" stroke-opacity="0.22"/><rect x="-17" y="-17" width="34" height="34" transform="rotate(45)" stroke="#D98E2B" stroke-opacity="0.22"/></g>
-    <g transform="translate(604,36)" fill="none" stroke="#1FA396" stroke-opacity="0.55" stroke-width="1.4" stroke-linecap="round">
-      <path d="M -12 -3 C -13 7 -7 12 0 12 C 7 12 13 7 12 -3"/>
-      <path d="M -13 -3 Q 0 -8 13 -3"/>
-      <path d="M 12 0 C 17 -1 18 -5 19 -8"/>
-      <path d="M -12 0 C -19 -1 -20 7 -13 8"/>
-      <circle cx="0" cy="-8" r="1.6" fill="#D98E2B" stroke="none"/>
-      <path d="M -3 -13 C -5 -16 -1 -18 -3 -21" stroke-opacity="0.4"/>
-    </g>
-    <g transform="translate(697,36)"><rect x="-17" y="-17" width="34" height="34" stroke="#D98E2B" stroke-opacity="0.22"/><rect x="-17" y="-17" width="34" height="34" transform="rotate(45)" stroke="#D98E2B" stroke-opacity="0.22"/></g>
-    <g transform="translate(790,36)"><rect x="-17" y="-17" width="34" height="34" stroke="#1FA396" stroke-opacity="0.30"/><rect x="-17" y="-17" width="34" height="34" transform="rotate(45)" stroke="#1FA396" stroke-opacity="0.30"/></g>
-    <g transform="translate(883,36)"><rect x="-17" y="-17" width="34" height="34" stroke="#D98E2B" stroke-opacity="0.22"/><rect x="-17" y="-17" width="34" height="34" transform="rotate(45)" stroke="#D98E2B" stroke-opacity="0.22"/></g>
-    <g transform="translate(976,36)"><rect x="-17" y="-17" width="34" height="34" stroke="#1FA396" stroke-opacity="0.30"/><rect x="-17" y="-17" width="34" height="34" transform="rotate(45)" stroke="#1FA396" stroke-opacity="0.30"/></g>
-    <g transform="translate(1069,36)"><rect x="-17" y="-17" width="34" height="34" stroke="#D98E2B" stroke-opacity="0.22"/><rect x="-17" y="-17" width="34" height="34" transform="rotate(45)" stroke="#D98E2B" stroke-opacity="0.22"/></g>
-    <g transform="translate(1162,36)"><rect x="-17" y="-17" width="34" height="34" stroke="#1FA396" stroke-opacity="0.30"/><rect x="-17" y="-17" width="34" height="34" transform="rotate(45)" stroke="#1FA396" stroke-opacity="0.30"/></g>
+  <g transform="translate(600,35)" fill="none" stroke="#16233F" stroke-opacity="0.55" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M -6.8 -1.6 C -10.4 -2.4 -11.6 2 -8.6 4"/>
+    <path d="M 6.4 -0.6 C 8.6 -1.2 9.6 -3 9.8 -5 L 11 -3.2 C 10.6 -0.8 9.6 1.6 8.2 3.4 Z"/>
+    <path d="M -7 -2 C -8 1 -7 5 -3.5 6 C -1.5 6.5 1.5 6.5 3.5 6 C 7 5 8 1 7 -2 C 4 -3 -4 -3 -7 -2 Z" fill="#FAF6EF"/>
+    <path d="M -5.5 -3.4 C -2.7 -3.8 2.7 -3.8 5.5 -3.4"/>
+    <path d="M -4.6 -3.6 C -4 -5.4 -2 -6.2 0 -6.2 C 2 -6.2 4 -5.4 4.6 -3.6"/>
+    <circle cx="0" cy="-7.2" r="0.9" fill="#D98E2B" stroke="none"/>
+    <ellipse cx="0" cy="7.4" rx="9" ry="1.4" stroke-opacity="0.4"/>
   </g>
 </svg>
