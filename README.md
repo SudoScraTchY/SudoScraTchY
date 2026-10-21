@@ -1,31 +1,14 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SudoScraTchY/SudoScraTchY/main/assets/hero-dark.svg">
-  <img src="https://raw.githubusercontent.com/SudoScraTchY/SudoScraTchY/main/assets/hero-light.svg" width="100%" alt="Banner styled as a terminal session: GET /mehrshad returns 200 OK, x-powered-by coffee. Name Mehrshad Zand, tagline: backend engineer, deletes caches, defends RFC 2324. A line-art teapot with animated steam stands on a saucer against a soft turquoise disc." />
+  <img src="https://raw.githubusercontent.com/SudoScraTchY/SudoScraTchY/main/assets/hero-light.svg" width="100%" alt="Banner styled as a terminal session: GET /mehrshad returns 200 OK, x-powered-by coffee. Name Mehrshad Zand, tagline: backend engineer, deletes caches،A line-art teapot with animated steam stands on a saucer against a soft turquoise disc." />
 </picture>
 
-### Backend engineer · hobbyist at heart · defends 418
+### Backend engineer · hobbyist at heart
 
 - ~5 years in **C# / .NET** — APIs, services and developer tooling with a bias toward **Clean Architecture, security, and systems that hold up at scale**.
 - I like taking things apart before I trust them: what's under the abstraction, what it costs, where it breaks. **Transparent and composable over convenient and locked-in.**
 - **Now:** building [coppice](https://github.com/SudoScraTchY/coppice) · writing at [sudoscratchy.github.io](https://sudoscratchy.github.io) · open to interesting backend work
-- **Believes:** humans are a feature of the machine, not a bug — which is why [RFC 2324](https://www.rfc-editor.org/rfc/rfc2324) stays.
-- **Learning:** <!-- TODO: what are you learning right now? The old README never said — e.g. "Rust", "K8s internals", "compiler design" -->
-
----
-
-## My life as status codes
-
-Every one of these actually happened.
-
-| | |
-| --- | --- |
-| `301 Moved Permanently` | Previously [@SaintScraTchY](https://github.com/SaintScraTchY). The account got banned; the human did not. Same person, better handle. |
-| `200 OK` | Five years of shipping .NET services that hold up at scale. Mostly. On the second deploy. |
-| `410 Gone` | What [coppice](https://github.com/SudoScraTchY/coppice) does to your caches — dry-run by default, and every deletion carries a reason. |
-| `402 Payment Required` | [BozKhar](https://github.com/SudoScraTchY/BozKhar) finds the cheapest way to buy your Digikala cart. Bargain hunting as a browser extension. |
-| `304 Not Modified` | [StaticBlaze](https://github.com/SudoScraTchY/StaticBlaze): markdown in, static site out. Nothing moves until I say so. |
-| `429 Too Many Requests` | Your notification shade, before [Alak](https://github.com/SudoScraTchY/Alak). It sifts, ranks and files on-device — no account, no network. |
-| `418 I'm a teapot` | Non-negotiable. The shortest RFC is load-bearing culture. |
+- **Learning:** AI Tooling, Agentic development 
 
 ---
 
